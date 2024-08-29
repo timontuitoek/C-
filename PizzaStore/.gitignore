@@ -1,0 +1,29 @@
+# Ignore Visual Studio temporary files, build results, and
+
+# folder for source control manager directories.
+
+.vs/
+
+*.user
+
+*.suo
+
+*.userosscache
+
+*.sln.docstates
+
+*.ide
+
+
+# Ignore build outputs
+
+bin/
+
+obj/
+
+
+# Ignore NuGet packages
+
+packages/
+
+*.nupkg
